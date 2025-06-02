@@ -1,2 +1,4 @@
-this is first file to push on to the githun
+this is first file to push on to the github
 now i have added something
+now add some more features
+so that i can learn more about the github
